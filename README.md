@@ -9,7 +9,7 @@ References
 
 |  | site |
 | ------ | ------ |
-| Install Ruby | [https://park-jongseok.github.io/languages/ruby/2019/10/03/installing-ruby.html][PlDb] |
+| Install Ruby | [https://park-jongseok.github.io/languages/ruby/2019/10/03/installing-ruby.html] |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
