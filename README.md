@@ -1,10 +1,10 @@
 Installs
 =============
 [![N|Solid](https://rubyinstaller.org/assets/gembox_sub.png)](https://rubyinstaller.org/downloads/)
-> * Ruby - https://rubyinstaller.org/downloads/
 [![N|Solid](https://raw.githubusercontent.com/Tixit/gem.js/HEAD/gem-title.png)](https://rubyinstaller.org/downloads/)
-> * Gem - https://github.com/Tixit/gem.js/
 [![N|Solid](https://jekyllrb.com/img/logo-2x.png)](https://jekyllrb.com/)
+> * Ruby - https://rubyinstaller.org/downloads/
+> * Gem - https://github.com/Tixit/gem.js/
 > * Jekyll - https://jekyllrb.com/
 
 
