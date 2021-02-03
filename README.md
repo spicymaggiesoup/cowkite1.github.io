@@ -13,5 +13,5 @@ References
 | ------ | ------ |
 | Install Ruby | https://park-jongseok.github.io/languages/ruby/2019/10/03/installing-ruby.html |
 | Run Jekyll Server | https://brunch.co.kr/@maemi/26 |
-| Jekyll Directory and Files | https://theorydb.github.io/envops/2019/05/03/envops-blog-github-pages-jekyll/ |
+| Jekyll Directory Structure | https://jekyllrb-ko.github.io/docs/structure/|
 | Idea | https://ogaeng.com/jekyll-blog-install/ |
